@@ -1,4 +1,5 @@
 # semicon-analysis-1
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/0594deb9-9a19-4229-a6e5-4b02c9beb697" />
 
 ## How to Run it
 1. Go do ipynb file
